@@ -1,6 +1,6 @@
 ﻿// Work2_3.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
-#include <Windows.h> // Обязательно для SetConsoleCP() и SetConsoleOutputCP()
+#include <Windows.h> // для SetConsoleCP() и SetConsoleOutputCP()
 #include <iostream>
 
 struct Address
